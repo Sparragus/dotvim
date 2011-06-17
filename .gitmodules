@@ -1,6 +1,3 @@
-[submodule "bundle/snipMate"]
-	path = bundle/snipMate
-	url = https://github.com/msanders/snipmate.vim.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
@@ -10,3 +7,12 @@
 [submodule "/Users/sparragus/.vim/bundle/gundo"]
 	path = /Users/sparragus/.vim/bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim_addon_mw_utils"]
+	path = bundle/vim_addon_mw_utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
