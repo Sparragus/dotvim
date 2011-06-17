@@ -7,3 +7,6 @@
 [submodule "bundle/surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "/Users/sparragus/.vim/bundle/gundo"]
+	path = /Users/sparragus/.vim/bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
