@@ -150,7 +150,7 @@ endfunction
 "{{{ Mappings
 
 " Map Leader
-let mapleader = "\\"
+let mapleader = ","
 
 " Next Tab
 nnoremap <silent> <C-Right> :tabnext<CR>
