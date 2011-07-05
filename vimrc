@@ -149,6 +149,9 @@ endfunction
 
 "{{{ Mappings
 
+" Map Leader
+let mapleader = "/"
+
 " Next Tab
 nnoremap <silent> <C-Right> :tabnext<CR>
 
