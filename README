@@ -12,3 +12,17 @@ Switch to the `~/.vim` directory, and fetch submodules:
     cd ~/.vim
     git submodule init
     git submodule update
+
+To add one new bundle
+    cd ~/.vim
+    git submodule add <repo url address>
+    git add .
+    git commit -m "Installed new bundle <bundle_name>."
+
+To update one bundle
+    cd ~/.vim/bundle/<bundle>
+    git pull origin master
+
+To update all bundles
+    cd ~/.vim
+    git submodule foreach git pull origin master
