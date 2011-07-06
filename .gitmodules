@@ -19,12 +19,6 @@
 [submodule "bundle/vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = git://github.com/garbas/vim-snipmate.git
-[submodule "bundle/tlib_vim"]
-	path = bundle/tlib_vim
-	url = https://github.com/tomtom/tlib_vim.git
-[submodule "bundle/vim_addon_mw_utils"]
-	path = bundle/vim_addon_mw_utils
-	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "bundle/snipmate_snippets"]
 	path = bundle/snipmate_snippets
 	url = https://github.com/honza/snipmate-snippets.git
