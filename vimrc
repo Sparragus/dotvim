@@ -178,7 +178,6 @@ map n nzz
 filetype plugin indent on
 syntax on
 
-
 " Settings for OmniCPPComplete
 " configure tags - add additional tags here or comment out not-used ones
 set tags+=~/.vim/tags/cpp
