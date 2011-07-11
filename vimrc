@@ -126,7 +126,7 @@ if has("gui_running")
    "Terminus is AWESOME
    "set guifont=Terminus\ 9
 else
-   colorscheme metacosm
+   colorscheme molokai
 endif
 
 "Status line gnarliness
