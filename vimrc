@@ -152,6 +152,10 @@ endfunction
 " Map Leader
 let mapleader = ","
 
+" Mappins for Markup to HTML
+nmap <leader>md :%!/usr/local/bin/Markdown.pl --html4tags <cr>
+vmap <leader>md :!/usr/local/bin/Markdown.pl --html4tags <cr>
+
 " Next Tab
 nnoremap <silent> <C-Right> :tabnext<CR>
 
