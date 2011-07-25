@@ -15,7 +15,7 @@ Switch to the `~/.vim` directory, and fetch submodules:
 
 To add one new bundle
     cd ~/.vim
-    git submodule add <repo url address>
+    git submodule add <repo url address> <path for new bundle>
     git add .
     git commit -m "Installed new bundle <bundle_name>."
 
