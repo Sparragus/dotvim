@@ -152,6 +152,9 @@ endfunction
 " Map Leader
 let mapleader = ","
 
+" Map TagBar
+nmap <leader>tag :TagbarToggle <cr>
+
 " Mappins for Markup to HTML
 nmap <leader>md :%!/usr/local/bin/Markdown.pl --html4tags <cr>
 vmap <leader>md :!/usr/local/bin/Markdown.pl --html4tags <cr>

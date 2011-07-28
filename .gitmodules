@@ -30,3 +30,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar
+[submodule "bundle/snipmate-snippets-bibtex"]
+	path = bundle/snipmate-snippets-bibtex
+	url = https://github.com/rbonvall/snipmate-snippets-bib.git
