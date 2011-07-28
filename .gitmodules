@@ -1,27 +1,27 @@
-[submodule "bundle/supertab"]
-	path = bundle/supertab
+[submodule "supertab"]
+	path = not_used_bundle/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "bundle/surround"]
+[submodule "surround"]
 	path = bundle/surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "bundle/gundo"]
+[submodule "gundo"]
 	path = bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
-[submodule "bundle/tlib_vim"]
+[submodule "tlib_vim"]
 	path = bundle/tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
-[submodule "bundle/vim_addon_mw_utils"]
+[submodule "vim_addon_mw_utils"]
 	path = bundle/vim_addon_mw_utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "bundle/nerdCommenter"]
+[submodule "nerdCommenter"]
 	path = bundle/nerdCommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule "bundle/vim-snipmate"]
+[submodule "vim-snipmate"]
 	path = bundle/vim-snipmate
 	url = git://github.com/garbas/vim-snipmate.git
-[submodule "bundle/snipmate_snippets"]
+[submodule "snipmate_snippets"]
 	path = bundle/snipmate_snippets
 	url = https://github.com/honza/snipmate-snippets.git
-[submodule "bundle/sparkup"]
+[submodule "sparkup"]
 	path = bundle/sparkup
 	url = https://github.com/rstacruz/sparkup.git
