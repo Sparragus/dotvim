@@ -33,3 +33,6 @@
 [submodule "bundle/snipmate-snippets-bibtex"]
 	path = bundle/snipmate-snippets-bibtex
 	url = https://github.com/rbonvall/snipmate-snippets-bib.git
+[submodule "bundle/nerd_tree"]
+	path = bundle/nerd_tree
+	url = https://github.com/scrooloose/nerdtree.git
